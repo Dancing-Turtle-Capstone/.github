@@ -1,6 +1,6 @@
 ﻿# Dancing Turtle
 
-Hello! This is the official GitHub Repository for Dancing Turtle. Our code consists of multiple parts, each with their own repositories. They all designed to work togehter and each repo will have a guide on how it works and how to run it.
+Hello! This is the official GitHub Repository for Dancing Turtle. Our code consists of multiple parts, each with their own repositories. They all designed to work together and each repo will have a guide on how it works and how to run it.
 
 # To get the turtle operational and ready for guests to interact with complete the following steps in order:
 
